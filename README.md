@@ -35,4 +35,4 @@ Full template available on Gumroad:
 - MVPs and prototypes
 - Internal tools
 
-This template is part of a larger Flutter UI template collection.
+This template will be part of a larger Flutter UI template collection.
